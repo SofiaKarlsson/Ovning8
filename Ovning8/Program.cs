@@ -30,7 +30,7 @@ namespace Ovning8
             Console.WriteLine("Sorterar alfabetiskt");
 
 
-            //en värdelös kommentar
+            //en underbar kommentar!!
         }
 
         //Skriver ut alla namn genom en for-loop
